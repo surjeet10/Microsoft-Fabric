@@ -6,7 +6,6 @@ Hands-on Microsoft Fabric tutorials and demos.
 
 [![Watch the video](https://img.youtube.com/vi/HpHqVCWUU4M/0.jpg)](https://www.youtube.com/watch?v=HpHqVCWUU4M)
 
-
 ### 📌 Topics Covered
 - REST API ingestion
 - Microsoft Fabric Pipelines
@@ -21,3 +20,14 @@ Hands-on Microsoft Fabric tutorials and demos.
 - Create Semantic Model
 - Create simple Viual
 - Save the file
+
+## 📹 Tutorial: Using Parameters in Microsoft Fabric
+
+[![Watch: How to Use Parameters in Fabric](https://img.youtube.com/vi/xX-E7YelrLQ/0.jpg)](https://youtu.be/xX-E7YelrLQ)
+
+### 📌 Topics Covered
+- Create Parameter to Change file names in Destination
+
+
+
+
