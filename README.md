@@ -28,6 +28,16 @@ Hands-on Microsoft Fabric tutorials and demos.
 ### 📌 Topics Covered
 - Create Parameter to Change file names in Destination
 
+## 🎥 IF Condition In Microsoft Fabric
+
+[![Watch the video](https://img.youtube.com/vi/MJAsR6H-syw/0.jpg)](https://youtu.be/MJAsR6H-syw)
+
+- Metadata
+- For Each
+- IF
+- Delete
+- Copy data
+
 
 
 
